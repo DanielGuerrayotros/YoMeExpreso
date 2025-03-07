@@ -234,7 +234,7 @@ div {
     font-family: "Lucida Sans Unicode";
     text-align: center;
     margin: auto;
-    list-style-type:circle  ;
+    list-style-type: decimal;
     width: 500px;
     height: auto;
     background-color:rgb(171, 195, 252);
