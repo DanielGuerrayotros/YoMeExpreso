@@ -1,0 +1,254 @@
+body {background: linear-gradient(rgb(79, 169, 238),rgb(202, 219, 255)); }
+
+#titulo {color: rgb(253, 43, 43);}
+#titulo2 {color:rgb(67, 141, 202)}
+#titulo3 {color: rgb(31, 122, 191)}
+
+header {
+    text-align: center; 
+    padding-top: 25px;
+}
+
+*#titulo {
+    overflow: hidden; 
+    background-color: rgb(204, 241, 229); 
+    opacity: 0.95;
+    font-size: 90px; 
+    text-align:center ; 
+    text-decoration:underline; 
+    text-shadow: 6px 2px 4px rgb(114, 22, 22); 
+    font-family:'Verdana'; 
+    margin: auto;
+    border-style: outset; 
+    border-color: rgb(179, 224, 252); 
+    border-radius: 12px; 
+    border-width: 8px; 
+    margin: 30px 200px 30px 200px; 
+    padding: 10px 30px 30px 30px;
+}  
+
+*#titulo2 {
+    font-size: 38px; 
+    text-align: center; 
+    font-family: poppins, sans-serif;
+}
+
+*#titulo3 {
+    font-size: 20px; 
+    text-align: center; 
+    font-family:'Trebuchet MS';
+}
+
+*#titulo4 {
+    font-size: 32px; 
+    text-align: center;
+     font-family:'Lucida Sans Unicode'; 
+    color: rgb(39, 81, 121);
+    border-style:solid; 
+    border-radius: 20px; 
+    border-radius: 20px;
+    border-width: 10px; 
+    border-color: rgb(133, 170, 219);
+     background-color: rgb(204, 241, 229); 
+    opacity: 0.8;
+}
+
+*#Imagenes {
+    font-size: 16px; 
+    text-align: center;
+     font-family:'Lucida Sans Unicode'; 
+    color: rgb(39, 81, 121);
+    border-style:solid; 
+    border-radius: 20px; 
+    border-radius: 20px;
+    border-width: 10px; 
+    border-color: rgb(133, 170, 219);
+     background-color: rgb(204, 241, 229); 
+    opacity: 0.8;
+}
+
+.nombres {
+    font-weight:bolder ;
+    list-style: none ;
+     text-align: center; 
+     font-family:'Verdana'; 
+     color: rgb(119, 71, 175);
+    background-color: rgb(171, 195, 252); 
+    margin:auto;margin-top: 35px;
+    border-style: solid; 
+    border-radius: 50px; 
+    border-width:3px;
+    padding: 18px 50px 18px 50px; 
+    width: 200px; 
+    border-color: rgb(107, 176, 255);
+    font-size: 20px;
+}
+
+.button {
+    cursor:pointer;
+    font-weight:bolder;
+    text-align: center; 
+    font-family:'Lucida Sans Unicode'; 
+    background-color: rgb(171, 195, 252);
+    border-style: solid; 
+    border-radius: 50px; 
+    border-width:3px;
+    padding: 18px 50px 18px 50px; 
+    width: 200px;
+    border-color: rgb(107, 176, 255);
+    font-size: 20px; 
+    color: rgb(32, 130, 168);
+    text-decoration:underline;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.imgOne {
+    display: block  ;
+    margin: 45px auto;
+}
+
+.txtone { 
+    color: rgb(42, 64, 82);
+    font-size: 18px;
+    font-family: "Lucida Sans Unicode";
+    padding: 20px 70px 5px 70px;
+}
+
+.txttwo { 
+    color: rgb(42, 64, 82);
+    font-size: 18px;
+    font-family: "Lucida Sans Unicode";
+    padding: 20px 70px 20px 70px;
+}
+
+.txtthree { 
+    color: rgb(42, 64, 82);
+    font-size: 18px;
+    font-family: "Lucida Sans Unicode";
+    padding: 0px 70px 20px 70px;
+}
+
+.txtfour { 
+    color: rgb(42, 64, 82);
+    font-size: 18px;
+    font-family: "Lucida Sans Unicode";
+    padding: 0px 70px 20px 70px;
+}
+
+.listone { 
+    color: rgb(1, 27, 48);
+    font-size: 20px;
+    font-family: "Lucida Sans Unicode";
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+    width: 500px;
+    height: auto;
+    background-color:rgb(171, 195, 252);
+    border-style: dotted;
+    border-color: rgb(125, 174, 207);    
+}
+
+.imgTwo {
+    display: block  ;
+    margin: 25px auto;
+}
+
+*#titulo5 {
+    font-size: 18px; 
+    text-align: center;
+     font-family:'Lucida Sans Unicode'; 
+    color: rgb(39, 81, 121);
+    border-style:solid; 
+    border-radius: 20px; 
+    border-radius: 20px;
+    border-width: 10px; 
+    border-color: rgb(133, 170, 219);
+     background-color: rgb(204, 241, 229); 
+    opacity: 0.8;
+    
+}
+
+.list2 { 
+    color: rgb(1, 27, 48);
+    font-size: 20px;
+    font-family: "Lucida Sans Unicode";
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+    width: 500px;
+    height: auto;
+    background-color:rgb(171, 195, 252);
+    border-style: dotted;
+    border-color: rgb(125, 174, 207);    
+}
+
+.list3 { 
+    color: rgb(1, 27, 48);
+    font-size: 20px;
+    font-family: "Lucida Sans Unicode";
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+    width: 500px;
+    height: auto;
+    background-color:rgb(171, 195, 252);
+    border-style: dotted;
+    border-color: rgb(125, 174, 207);    
+}
+
+.txtfive {
+    font-size: 18px; 
+    text-align: center;
+     font-family:'Lucida Sans Unicode'; 
+    color: rgb(39, 81, 121);
+    border-style:solid; 
+    border-radius: 20px; 
+    border-radius: 20px;
+    border-width: 10px; 
+    border-color: rgb(133, 170, 219);
+     background-color: rgb(204, 241, 229); 
+    opacity: 0.8;
+    
+}
+
+*#titulo6 {
+    font-size: 18px; 
+    text-align: center;
+    font-family:'Lucida Sans Unicode'; 
+    color: rgb(39, 81, 121);
+    background-color: rgb(204, 241, 229); 
+    opacity: 0.8;
+    padding: 50px;
+}
+
+.list4 { 
+    color: rgb(1, 27, 48);
+    font-size: 16px;
+    font-family: "Lucida Sans Unicode";
+    text-align: center;
+    margin: auto;
+    list-style-type:circle  ;
+    width: 500px;
+    height: auto;
+    background-color:rgb(171, 195, 252);
+}
+
+.conteiner img{
+    opacity:0;
+    transition: 1s ease;
+    margin-left: 800px;
+    padding: 0 0 50px;
+}
+
+.conteiner img:hover{
+    opacity: 1;
+    transition: 1s ease;
+    cursor: pointer;
+}
